@@ -1,0 +1,10 @@
+             (By.CLASS_NAME, 'chakra-button.css-1ibdgpm'),
+             (By.ID, 'allow'),
+             (By.ID, 'allow'),
+             (By.NAME, 'text'),
+             (By.CLASS_NAME, 'css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-ywje51.r-184id4b.r-13qz1uu.r-2yi16.r-1qi8awa.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l'),
+             (By.NAME, 'text'),
+             (By.CLASS_NAME, 'css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-19yznuf.r-64el8z.r-1fkl15p.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l'),
+             (By.NAME, 'password'),
+             (By.CLASS_NAME, 'css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-19yznuf.r-64el8z.r-1fkl15p.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l'),
+             (By.ID, 'allow')
